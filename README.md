@@ -4,20 +4,11 @@ Welcome to the RouteBuilding series of modules, this module follows the MIT prot
 If you have any problems, please feedback from ISSUS, thank you.
 The developers of this module are: ZHAMAO Route Team
 [Founder] Leoved
-=================================================================================================================
+
 Chinese
 =================================================================================================================
 欢迎使用RouteBuilding系列模组，本模组遵循MIT协议开源版本。
 如有问题，请从ISSUS反馈，谢谢。
 本模组的开发人员有：ZHAMAO Route Team
 [创始人]Leoved
-=================================================================================================================
 
-0.1.0版本以下为测试版本，并非正式版本。
-========================================
-0.0.0-1221.1528:
-==================
-[+]Route LOGO
-[+]Item Group
-[+]翻译 简体中文
-==================
