@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "route-buildings",
+	"version": "${version}",
+	"name": "route buildings",
+	"description": "ZHAMAO Route Building Designed by ZHAMAO Route Team",
+	"authors": [
+		"Leoved"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/ZHAMAO-LEOVED/Route-Buildings"
+	},
+	"license": "MIT",
+	"icon": "assets/route-buildings/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"zhamao.route.buildings.RouteBuildings"
+		],
+		"client": [
+			"zhamao.route.buildings.RouteBuildingsClient"
+		],
+		"fabric-datagen": [
+			"zhamao.route.buildings.RouteBuildingsDataGenerator"
+		]
+	},
+	"mixins": [
+		"route-buildings.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
